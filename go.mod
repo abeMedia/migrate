@@ -15,7 +15,7 @@ require (
 	github.com/cznic/mathutil v0.0.0-20180504122225-ca4c9f2c1369 // indirect
 	github.com/denisenkom/go-mssqldb v0.10.0
 	github.com/dhui/dktest v0.3.4
-	github.com/docker/docker v17.12.0-ce-rc1.0.20210128214336-420b1d36250f+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
 	github.com/fsouza/fake-gcs-server v1.17.0
@@ -38,6 +38,7 @@ require (
 	github.com/lib/pq v1.8.0
 	github.com/markbates/pkger v0.15.1
 	github.com/mattn/go-sqlite3 v1.14.6
+	github.com/moby/term v0.0.0-20221205130635-1aeaba878587 // indirect
 	github.com/mutecomm/go-sqlcipher/v4 v4.4.0
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
 	github.com/neo4j/neo4j-go-driver v1.8.1-0.20200803113522-b626aa943eba
@@ -55,11 +56,11 @@ require (
 	go.uber.org/atomic v1.6.0
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a // indirect
 	golang.org/x/net v0.0.0-20210520170846-37e1c6afe023 // indirect
-	golang.org/x/sys v0.0.0-20210521090106-6ca3eb03dfc2 // indirect
 	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	golang.org/x/tools v0.1.0
 	google.golang.org/api v0.45.0
 	google.golang.org/genproto v0.0.0-20210427215850-f767ed18ee4d
+	gotest.tools/v3 v3.4.0 // indirect
 	modernc.org/b v1.0.0 // indirect
 	modernc.org/db v1.0.0 // indirect
 	modernc.org/file v1.0.0 // indirect
